@@ -1,5 +1,11 @@
 Status quo each monday:
 
+-	main research question
+-	how are we going to answer this question?
+	-	main activities
+	-	phases
+	-	questions
+	-	deliverables
 -	what did you want to achieve?
 -	How did you do it?
 -	What was the result?
